@@ -1,0 +1,6 @@
+{
+  "name": "VaultOTP - Folder-Organized Authenticator",
+  "description": "A secure, modern 2FA authenticator with folders, categories, tags, smart search, and instant TOTP generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
